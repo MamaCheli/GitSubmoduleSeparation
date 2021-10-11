@@ -1,0 +1,3 @@
+[submodule "NewRepoGitSubmoduleSeparation"]
+	path = NewRepoGitSubmoduleSeparation
+	url = https://github.com/MamaCheli/NewRepoGitSubmoduleSeparation.git
